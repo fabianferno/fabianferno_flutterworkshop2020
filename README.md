@@ -1,6 +1,6 @@
-# hello_world_flutter
+# Skywalker's Script (My blog App)
 
-A new Flutter application.
+My first Flutter application.
 
 ## Getting Started
 
